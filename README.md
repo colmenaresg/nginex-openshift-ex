@@ -1,2 +1,2 @@
 # nginex-openshift-ex
-Openshift nginx deployment example
+nginx deployment on Openshift example
